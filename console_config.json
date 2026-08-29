@@ -1,0 +1,57 @@
+{
+  "FACEBOOK": {
+    "enabled": false,
+    "ranges": []
+  },
+  "WHATSAPP": {
+    "enabled": true,
+    "ranges": [
+      "8562052",
+      "9665790",
+      "966577"
+    ]
+  },
+  "INSTAGRAM": {
+    "enabled": true,
+    "ranges": [
+      "26134237",
+      "26134"
+    ]
+  },
+  "TELEGRAM": {
+    "enabled": false,
+    "ranges": []
+  },
+  "TWITTER": {
+    "enabled": false,
+    "ranges": []
+  },
+  "TIKTOK": {
+    "enabled": false,
+    "ranges": []
+  },
+  "SNAPCHAT": {
+    "enabled": false,
+    "ranges": []
+  },
+  "GOOGLE": {
+    "enabled": false,
+    "ranges": []
+  },
+  "BINANCE": {
+    "enabled": false,
+    "ranges": []
+  },
+  "YOUTUBE": {
+    "enabled": false,
+    "ranges": []
+  },
+  "LINKEDIN": {
+    "enabled": false,
+    "ranges": []
+  },
+  "AMAZON": {
+    "enabled": false,
+    "ranges": []
+  }
+}
